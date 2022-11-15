@@ -10,7 +10,7 @@
                 <div>Mirpur Cantonment, Dhaka-1216</div>
                 <div>Mobile No: +8801715004015</div>
                 <div>Email: zabedin5201@gmail.com</div>
-                <div style="font-weight:bold; padding-top:1%"> 2. Lt Col Khondaker Shakil Ahmed, PHD, PEng, CEng </div>
+                <div style="font-weight:bold; padding-top:1%"> 2. Lt Col Khondaker Shakil Ahmed, PhD, PEng, CEng </div>
                 <div>Associate Professor</div>
                 <div>Department of Civil Engineering</div>
                 <div>Military Institute of Science and Technology</div>

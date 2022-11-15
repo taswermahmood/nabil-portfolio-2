@@ -7,9 +7,9 @@
       </div>
       <div style="font-weight:bold; font-size: 20px; padding-top:1%"> Research Interest </div>
       <div>Climate and seasonal effect on infrastructures,</div>
-      <div>slope stability, geotextiles, Geotechnical instrumentation,</div>
-      <div>sustainability Development of Geotechnical Structure,</div>
-      <div>Laboratory based research, simulation based research</div>
+      <div>slope stability, geotextiles, geotechnical Instrumentation,</div>
+      <div>sustainability development of geotechnical structure,</div>
+      <div>laboratory based research, simulation based research.</div>
       <div data-aos-duration="1500" data-aos="fade-down" style="padding:2%">
         <div style="padding-top:1%"> <strong>Email: </strong> farhantanvirnabil43@gmail.com </div>
         <div style="padding-top:1%"> <strong>Mobile: </strong> +8801628761422 </div>
